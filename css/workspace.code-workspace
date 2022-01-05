@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\icons"
+		},
+		{
+			"path": "..\\img"
+		},
+		{
+			"path": "..\\js"
+		},
+		{
+			"path": "..\\sass"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
